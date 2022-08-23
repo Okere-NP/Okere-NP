@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okere Prince Nnayelugo,
 - 👀 I’m interested in Immersive Technology and Artificial Intelligence,
-- 🌱 I’m currently learning Extended Reality and Spatial Computing,
-- 💞️ I’m looking to collaborate on VR,AR and MR.
+- 🌱 I’m currently learning Big Data,
+- 💞️ I’m looking forward to collaborate and network.
 - 📫 How to reach me on Twitter:- https://www.twitter.com/Okere_NP
 
 <!---
