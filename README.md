@@ -2,7 +2,8 @@
 - 👀 I’m interested in Immersive Technology and Artificial Intelligence,
 - 🌱 I’m currently learning Big Data,
 - 💞️ I’m looking forward to collaborate and network.
-- 📫 How to reach me on Twitter:- https://www.twitter.com/Okere_NP 
+- 📫 How to reach me on :>
+<br>Twitter:- https://www.twitter.com/Okere_NP 
 <br>LinkedIn:- https://www.linkedin.com/in/prince-okere-686912177
 <br>Julialang.social:- https://julialang.social/@Okere_NP
 
