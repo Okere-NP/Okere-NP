@@ -20,7 +20,7 @@ I'm always open to:
 - Connecting with professionals in tech, engineering, and energy
 - Learning from experienced minds and contributing to meaningful work
 
-📫 **Reach me on LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prince-okere-686912177/) *(update this with your actual link)*
+📫 **Reach me on LinkedIn**: [linkedin](https://www.linkedin.com/in/prince-okere-686912177/) *(update this with your actual link)*
 
 ---
 
